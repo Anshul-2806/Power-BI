@@ -1,9 +1,7 @@
 # 📊 Power BI Dashboards & Reports
 
-<p align="center">
   ![powerbi](https://github.com/user-attachments/assets/0de751df-e9d9-4c57-a282-7f642b4bbf32)
 
-</p>
 
 Welcome to my **Power BI Portfolio Repository**, where I showcase interactive dashboards and data reports built using **Microsoft Power BI**.
 
