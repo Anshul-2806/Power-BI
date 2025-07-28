@@ -1,7 +1,8 @@
 # 📊 Power BI Dashboards & Reports
 
 <p align="center">
-  <img src="assets/powerbi-banner.png" alt="Power BI Projects by Anshul Gupta" width="90%">
+  ![powerbi](https://github.com/user-attachments/assets/0de751df-e9d9-4c57-a282-7f642b4bbf32)
+
 </p>
 
 Welcome to my **Power BI Portfolio Repository**, where I showcase interactive dashboards and data reports built using **Microsoft Power BI**.
@@ -19,8 +20,8 @@ These reports focus on transforming raw data into actionable insights, perfect f
 ✅ Google Analytics Report  
 ✅ Custom Visuals & Filters Integration
 
-> *(You can add/remove based on what you’ve uploaded)*
-
+<img width="649" height="365" alt="HR ANALYTICS DASHBOARD as per DEPT" src="https://github.com/user-attachments/assets/c443b835-45fa-46a3-be37-44e4eb25bddc" />
+<img width="661" height="368" alt="Zomato Sales Analysis" src="https://github.com/user-attachments/assets/a12f1f68-253c-49d7-9c96-c19c4408148c" />
 ---
 
 ## 🎯 Skills Demonstrated
@@ -39,19 +40,12 @@ These reports focus on transforming raw data into actionable insights, perfect f
 - **Power BI Desktop**  
 - **Power Query**  
 - **DAX (Data Analysis Expressions)**  
-- **MS Excel & SQL**  
-- **Custom Visual Marketplace**
-
----
-
 ---
 
 ## 📸 Preview
 
 > Add your screenshots or GIF demos in this section:
 
-<img width="649" height="365" alt="HR ANALYTICS DASHBOARD as per DEPT" src="https://github.com/user-attachments/assets/c443b835-45fa-46a3-be37-44e4eb25bddc" />
-<img width="661" height="368" alt="Zomato Sales Analysis" src="https://github.com/user-attachments/assets/a12f1f68-253c-49d7-9c96-c19c4408148c" />
 <img width="662" height="370" alt="HR ANALYTICS DASHBOARD POWERBI" src="https://github.com/user-attachments/assets/86259dc8-0571-4c6f-bb4e-5195c68b0ac5" />
 
 
